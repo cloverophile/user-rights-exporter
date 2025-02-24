@@ -1,6 +1,6 @@
 ### User Rights Exporter
 
-This PowerShell script can be used **to export user rights assignments from the local security policy** on a Windows machine; providing a better visibility for enumeration and making the process less time-consuming by applying automation. It has been created for educational purposes and contains nothing harmful/malicious for your system. 
+I've created this PowerShell script **to export user rights assignments from the local security policy** on a Windows machine; to provide a better visibility for enumeration and make the overall process less time-consuming by applying automation. It has been created for educational purposes and contains nothing harmful/malicious for your system. 
 
 ---
 
